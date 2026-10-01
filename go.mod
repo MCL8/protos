@@ -1,4 +1,4 @@
-module protos
+module github.com/MCL8/protos
 
 go 1.22
 
